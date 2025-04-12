@@ -1,6 +1,6 @@
 
-# 💫 CodeWithAltech: 👋
-Hi there, I'm Abaasa Albert 👋<br><br>I'm a software developer passionate about building cool projects and solving problems.  <br>🌱 Currently learning<br>🌟 Fun Fact<br>I love hiking and swimming! 🏞️
+<center># 💫 CodeWithAltech: 👋
+Hi there, I'm Abaasa Albert 👋<br><br>I'm a software developer passionate about building cool projects and solving problems.  <br>🌱 Currently learning<br>🌟 Fun Fact<br>I love hiking and swimming! 🏞️</center>
 
 
 ## 🌐 Socials:
