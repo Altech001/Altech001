@@ -9,7 +9,7 @@
 ### Abaasa Albert
 `software developer · kampala, uganda`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=D4A B76&background=00000000&center=true&vCenter=true&width=460&lines=building+cool+things+one+commit+at+a+time;currently+learning+%E2%80%94+always+shipping;hiking+%2B+swimming+%2B+code" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=D4AB76&background=00000000&center=true&vCenter=true&width=460&lines=building+cool+things+one+commit+at+a+time;currently+learning+%E2%80%94+always+shipping;hiking+%2B+swimming+%2B+code" alt="typing banner" />
 
 </div>
 
