@@ -103,7 +103,7 @@ hiking and swimming 🏞️
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Altech001&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D4AB76&icon_color=D4AB76&text_color=e8e0d5&include_all_commits=true&count_private=true" width="48%" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Altech001&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D4AB76&icon_color=D4AB76&text_color=e8e0d5" width="48%" alt="github stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altech001&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D4AB76&text_color=e8e0d5&langs_count=8" width="42%" alt="top languages"/>
 
 <br>
@@ -117,7 +117,7 @@ hiking and swimming 🏞️
 ## ── TROPHIES ──
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Altech001&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Altech001&theme=onedark&no-frame=true&column=4&margin-w=8" alt="trophies"/>
 </div>
 
 <br>
@@ -130,6 +130,6 @@ hiking and swimming 🏞️
 ─────────────────────────────────────────
 ```
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Altech001&icon=4&color=6)
+![Visitor Count](https://komarev.com/ghpvc/?username=Altech001&label=VISITORS&color=D4AB76&style=for-the-badge)
 
 </div>
